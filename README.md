@@ -39,3 +39,4 @@ This document outlines the functionalities, endpoints, and usage of the Online C
 
 - **MySQL Database:** Data is stored in a MySQL database.
 - **Data Deletion:** When a user deletes their submissions, related information from the database is also deleted.
+- To optimize query performance and reduce the number of database trips in a MySQL database for the Online Compiler REST API, stored procedures can be utilized
