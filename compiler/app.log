@@ -1,0 +1,117 @@
+2024-02-27 16:27:39 [main] INFO  [c.s.c.CompilerApplicationTests] - Starting CompilerApplicationTests using Java 17.0.8 with PID 13804 (started by ravis in C:\Users\ravis\Desktop\OnlineCompiler\compiler)
+2024-02-27 16:27:39 [main] INFO  [c.s.c.CompilerApplicationTests] - The following 1 profile is active: "dev"
+2024-02-27 16:27:44 [main] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-27 16:27:44 [main] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Finished Spring Data repository scanning in 267 ms. Found 2 JPA repository interfaces.
+2024-02-27 16:27:47 [main] INFO  [o.h.jpa.internal.util.LogHelper] - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-27 16:27:47 [main] INFO  [org.hibernate.Version] - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-02-27 16:27:48 [main] INFO  [o.h.c.i.RegionFactoryInitiator] - HHH000026: Second-level cache disabled
+2024-02-27 16:27:49 [main] INFO  [o.s.o.j.p.SpringPersistenceUnitInfo] - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-27 16:27:49 [main] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-02-27 16:27:50 [main] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3c5e4aac
+2024-02-27 16:27:50 [main] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-02-27 16:27:54 [main] INFO  [o.h.e.t.j.p.i.JtaPlatformInitiator] - HHH000490: Using JTA platform [org.hibernate.engine.transaction.jta.platform.internal.WebSphereExtendedJtaPlatform]
+2024-02-27 16:27:54 [main] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 16:27:55 [main] INFO  [o.s.d.j.r.query.QueryEnhancerFactory] - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-02-27 16:28:00 [main] WARN  [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-27 16:28:02 [main] INFO  [o.s.b.a.e.web.EndpointLinksResolver] - Exposing 5 endpoint(s) beneath base path '/actuator'
+2024-02-27 16:28:02 [main] INFO  [o.s.s.web.DefaultSecurityFilterChain] - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@6028b018, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2e47ec5e, org.springframework.security.web.context.SecurityContextHolderFilter@1d904637, org.springframework.security.web.header.HeaderWriterFilter@657c93da, org.springframework.web.filter.CorsFilter@67fc98fe, org.springframework.security.web.authentication.logout.LogoutFilter@1222d0e4, com.springboot.compiler.WebFilters.JwtAuthFilter@71b6886, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@59bedf4d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@20d5668, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@39876e1f, org.springframework.security.web.session.SessionManagementFilter@faa592b, org.springframework.security.web.access.ExceptionTranslationFilter@563b9462, org.springframework.security.web.access.intercept.AuthorizationFilter@6670d46e]
+2024-02-27 16:28:05 [main] INFO  [c.s.c.CompilerApplicationTests] - Started CompilerApplicationTests in 26.84 seconds (process running for 30.602)
+2024-02-27 16:28:07 [SpringApplicationShutdownHook] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 16:28:07 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-02-27 16:28:07 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-02-27 16:30:12 [main] INFO  [c.s.c.CompilerApplicationTests] - Starting CompilerApplicationTests using Java 17.0.8 with PID 15196 (started by ravis in C:\Users\ravis\Desktop\OnlineCompiler\compiler)
+2024-02-27 16:30:12 [main] INFO  [c.s.c.CompilerApplicationTests] - The following 1 profile is active: "dev"
+2024-02-27 16:30:17 [main] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-27 16:30:17 [main] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Finished Spring Data repository scanning in 297 ms. Found 2 JPA repository interfaces.
+2024-02-27 16:30:21 [main] INFO  [o.h.jpa.internal.util.LogHelper] - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-27 16:30:21 [main] INFO  [org.hibernate.Version] - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-02-27 16:30:21 [main] INFO  [o.h.c.i.RegionFactoryInitiator] - HHH000026: Second-level cache disabled
+2024-02-27 16:30:22 [main] INFO  [o.s.o.j.p.SpringPersistenceUnitInfo] - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-27 16:30:22 [main] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-02-27 16:30:23 [main] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@191b44ca
+2024-02-27 16:30:23 [main] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-02-27 16:30:27 [main] INFO  [o.h.e.t.j.p.i.JtaPlatformInitiator] - HHH000490: Using JTA platform [org.hibernate.engine.transaction.jta.platform.internal.WebSphereExtendedJtaPlatform]
+2024-02-27 16:30:27 [main] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 16:30:29 [main] INFO  [o.s.d.j.r.query.QueryEnhancerFactory] - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-02-27 16:30:33 [main] WARN  [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-27 16:30:35 [main] INFO  [o.s.b.a.e.web.EndpointLinksResolver] - Exposing 5 endpoint(s) beneath base path '/actuator'
+2024-02-27 16:30:35 [main] INFO  [o.s.s.web.DefaultSecurityFilterChain] - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@203f929, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@59bcab83, org.springframework.security.web.context.SecurityContextHolderFilter@dc46916, org.springframework.security.web.header.HeaderWriterFilter@64f578eb, org.springframework.web.filter.CorsFilter@27c243a3, org.springframework.security.web.authentication.logout.LogoutFilter@26505df2, com.springboot.compiler.WebFilters.JwtAuthFilter@1f799f4c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3d1f6213, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@faa592b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@54e8f10a, org.springframework.security.web.session.SessionManagementFilter@42ef0b7c, org.springframework.security.web.access.ExceptionTranslationFilter@127350d8, org.springframework.security.web.access.intercept.AuthorizationFilter@7be55279]
+2024-02-27 16:30:38 [main] INFO  [c.s.c.CompilerApplicationTests] - Started CompilerApplicationTests in 26.722 seconds (process running for 30.051)
+2024-02-27 16:30:40 [SpringApplicationShutdownHook] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 16:30:40 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-02-27 16:30:40 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-02-27 16:40:53 [main] INFO  [c.s.c.CompilerApplicationTests] - Starting CompilerApplicationTests using Java 17.0.8 with PID 5516 (started by ravis in C:\Users\ravis\Desktop\OnlineCompiler\compiler)
+2024-02-27 16:40:53 [main] INFO  [c.s.c.CompilerApplicationTests] - The following 1 profile is active: "dev"
+2024-02-27 16:40:57 [main] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-27 16:40:58 [main] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Finished Spring Data repository scanning in 281 ms. Found 2 JPA repository interfaces.
+2024-02-27 16:41:00 [main] INFO  [o.h.jpa.internal.util.LogHelper] - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-27 16:41:01 [main] INFO  [org.hibernate.Version] - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-02-27 16:41:01 [main] INFO  [o.h.c.i.RegionFactoryInitiator] - HHH000026: Second-level cache disabled
+2024-02-27 16:41:02 [main] INFO  [o.s.o.j.p.SpringPersistenceUnitInfo] - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-27 16:41:02 [main] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-02-27 16:41:03 [main] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@76d828ff
+2024-02-27 16:41:03 [main] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-02-27 16:41:07 [main] INFO  [o.h.e.t.j.p.i.JtaPlatformInitiator] - HHH000490: Using JTA platform [org.hibernate.engine.transaction.jta.platform.internal.WebSphereExtendedJtaPlatform]
+2024-02-27 16:41:07 [main] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 16:41:08 [main] INFO  [o.s.d.j.r.query.QueryEnhancerFactory] - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-02-27 16:41:12 [main] WARN  [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-27 16:41:14 [main] INFO  [o.s.b.a.e.web.EndpointLinksResolver] - Exposing 5 endpoint(s) beneath base path '/actuator'
+2024-02-27 16:41:14 [main] INFO  [o.s.s.web.DefaultSecurityFilterChain] - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@27c243a3, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@54e8f10a, org.springframework.security.web.context.SecurityContextHolderFilter@5b4c2959, org.springframework.security.web.header.HeaderWriterFilter@7d45ffd, org.springframework.web.filter.CorsFilter@49bf800f, org.springframework.security.web.authentication.logout.LogoutFilter@1cfb035c, com.springboot.compiler.WebFilters.JwtAuthFilter@4b56971a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7540aa55, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@64123c4d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7563ca08, org.springframework.security.web.session.SessionManagementFilter@34bc5763, org.springframework.security.web.access.ExceptionTranslationFilter@1a958d2a, org.springframework.security.web.access.intercept.AuthorizationFilter@241b5364]
+2024-02-27 16:41:17 [main] INFO  [c.s.c.CompilerApplicationTests] - Started CompilerApplicationTests in 24.837 seconds (process running for 27.685)
+2024-02-27 16:41:18 [SpringApplicationShutdownHook] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 16:41:18 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-02-27 16:41:18 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-02-27 20:55:47 [restartedMain] INFO  [c.s.compiler.CompilerApplication] - Starting CompilerApplication using Java 17.0.8 with PID 6168 (C:\Users\ravis\Desktop\OnlineCompiler\compiler\target\classes started by ravis in C:\Users\ravis\Desktop\OnlineCompiler)
+2024-02-27 20:55:47 [restartedMain] INFO  [c.s.compiler.CompilerApplication] - The following 1 profile is active: "dev"
+2024-02-27 20:55:47 [restartedMain] INFO  [o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-27 20:55:47 [restartedMain] INFO  [o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-02-27 20:55:52 [restartedMain] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-27 20:55:53 [restartedMain] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Finished Spring Data repository scanning in 270 ms. Found 2 JPA repository interfaces.
+2024-02-27 20:55:58 [restartedMain] INFO  [o.s.b.w.e.tomcat.TomcatWebServer] - Tomcat initialized with port 9090 (http)
+2024-02-27 20:55:58 [restartedMain] INFO  [o.a.catalina.core.StandardService] - Starting service [Tomcat]
+2024-02-27 20:55:58 [restartedMain] INFO  [o.a.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-02-27 20:55:59 [restartedMain] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring embedded WebApplicationContext
+2024-02-27 20:55:59 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] - Root WebApplicationContext: initialization completed in 11608 ms
+2024-02-27 20:56:02 [restartedMain] INFO  [o.h.jpa.internal.util.LogHelper] - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-27 20:56:03 [restartedMain] INFO  [org.hibernate.Version] - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-02-27 20:56:03 [restartedMain] INFO  [o.h.c.i.RegionFactoryInitiator] - HHH000026: Second-level cache disabled
+2024-02-27 20:56:05 [restartedMain] INFO  [o.s.o.j.p.SpringPersistenceUnitInfo] - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-27 20:56:05 [restartedMain] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-02-27 20:56:06 [restartedMain] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f563dd2
+2024-02-27 20:56:06 [restartedMain] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-02-27 20:56:09 [restartedMain] INFO  [o.h.e.t.j.p.i.JtaPlatformInitiator] - HHH000490: Using JTA platform [org.hibernate.engine.transaction.jta.platform.internal.WebSphereExtendedJtaPlatform]
+2024-02-27 20:56:09 [restartedMain] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 20:56:10 [restartedMain] INFO  [o.s.d.j.r.query.QueryEnhancerFactory] - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-02-27 20:56:15 [restartedMain] WARN  [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-27 20:56:16 [restartedMain] INFO  [o.s.b.a.e.web.EndpointLinksResolver] - Exposing 5 endpoint(s) beneath base path '/actuator'
+2024-02-27 20:56:16 [restartedMain] INFO  [o.s.s.web.DefaultSecurityFilterChain] - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@43937590, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@eb57515, org.springframework.security.web.context.SecurityContextHolderFilter@390297e7, org.springframework.security.web.header.HeaderWriterFilter@5478fcc3, org.springframework.web.filter.CorsFilter@75fe58c6, org.springframework.security.web.authentication.logout.LogoutFilter@4e220066, com.springboot.compiler.WebFilters.JwtAuthFilter@313aa5d4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@70d35e8e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@78001909, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@272ae5e9, org.springframework.security.web.session.SessionManagementFilter@674b5f74, org.springframework.security.web.access.ExceptionTranslationFilter@3f032165, org.springframework.security.web.access.intercept.AuthorizationFilter@4ad0ecb4]
+2024-02-27 20:56:19 [restartedMain] INFO  [o.s.b.d.a.OptionalLiveReloadServer] - LiveReload server is running on port 35729
+2024-02-27 20:56:19 [restartedMain] INFO  [o.s.b.w.e.tomcat.TomcatWebServer] - Tomcat started on port 9090 (http) with context path ''
+2024-02-27 20:56:19 [restartedMain] INFO  [c.s.compiler.CompilerApplication] - Started CompilerApplication in 33.574 seconds (process running for 35.917)
+2024-02-27 20:56:25 [http-nio-9090-exec-1] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-27 20:56:25 [http-nio-9090-exec-1] INFO  [o.s.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2024-02-27 20:56:25 [http-nio-9090-exec-1] INFO  [o.s.web.servlet.DispatcherServlet] - Completed initialization in 2 ms
+2024-02-27 20:56:59 [SpringApplicationShutdownHook] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 20:56:59 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-02-27 20:56:59 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-02-27 20:58:13 [main] INFO  [c.s.c.CompilerApplicationTests] - Starting CompilerApplicationTests using Java 17.0.8 with PID 6828 (started by ravis in C:\Users\ravis\Desktop\OnlineCompiler\compiler)
+2024-02-27 20:58:13 [main] INFO  [c.s.c.CompilerApplicationTests] - The following 1 profile is active: "dev"
+2024-02-27 20:58:19 [main] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-27 20:58:19 [main] INFO  [o.s.d.r.c.RepositoryConfigurationDelegate] - Finished Spring Data repository scanning in 440 ms. Found 2 JPA repository interfaces.
+2024-02-27 20:58:22 [main] INFO  [o.h.jpa.internal.util.LogHelper] - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-27 20:58:23 [main] INFO  [org.hibernate.Version] - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-02-27 20:58:23 [main] INFO  [o.h.c.i.RegionFactoryInitiator] - HHH000026: Second-level cache disabled
+2024-02-27 20:58:24 [main] INFO  [o.s.o.j.p.SpringPersistenceUnitInfo] - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-27 20:58:24 [main] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-02-27 20:58:26 [main] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3c5e4aac
+2024-02-27 20:58:26 [main] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-02-27 20:58:32 [main] INFO  [o.h.e.t.j.p.i.JtaPlatformInitiator] - HHH000490: Using JTA platform [org.hibernate.engine.transaction.jta.platform.internal.WebSphereExtendedJtaPlatform]
+2024-02-27 20:58:33 [main] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 20:58:34 [main] INFO  [o.s.d.j.r.query.QueryEnhancerFactory] - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-02-27 20:58:40 [main] WARN  [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-27 20:58:43 [main] INFO  [o.s.b.a.e.web.EndpointLinksResolver] - Exposing 5 endpoint(s) beneath base path '/actuator'
+2024-02-27 20:58:43 [main] INFO  [o.s.s.web.DefaultSecurityFilterChain] - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@6ae47c1e, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@58e48d9, org.springframework.security.web.context.SecurityContextHolderFilter@438cb294, org.springframework.security.web.header.HeaderWriterFilter@127350d8, org.springframework.web.filter.CorsFilter@7be55279, org.springframework.security.web.authentication.logout.LogoutFilter@1ba2a958, com.springboot.compiler.WebFilters.JwtAuthFilter@71b6886, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@12025b72, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5b152082, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6dd6c64c, org.springframework.security.web.session.SessionManagementFilter@2096ade6, org.springframework.security.web.access.ExceptionTranslationFilter@29ab7ccc, org.springframework.security.web.access.intercept.AuthorizationFilter@cfc9c4f]
+2024-02-27 20:58:47 [main] INFO  [c.s.c.CompilerApplicationTests] - Started CompilerApplicationTests in 35.516 seconds (process running for 41.276)
+2024-02-27 20:58:49 [SpringApplicationShutdownHook] INFO  [o.s.o.j.LocalContainerEntityManagerFactoryBean] - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-27 20:58:49 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-02-27 20:58:49 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
